@@ -7,3 +7,5 @@
 - I learned JavaScript when I was 13 because I did things in Minecraft.
 
 - I like programming a lot! :D
+
+- Oh and I like Cyber security too.
