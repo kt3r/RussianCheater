@@ -1,7 +1,7 @@
 # Hi, I’m @RussianCheater
 
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/YQitE4YNQNahy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YQitE4YNQNahy">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="100"/>
 </div>
 
 As you probably guessed, I'm Russian and I like programming. I started programming very early in life like when I was 9 I did scratch and learned it in about a day while my friends were still struggling.
