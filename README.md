@@ -1,8 +1,7 @@
 # Hi, I’m @RussianCheater
 
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/YQitE4YNQNahy" width="100"/>
-</div>
+![hacker](https://github.com/RussianCheater/RussianCheater/assets/166878291/f4d58f3c-5dfe-49db-babd-8c63b9ca2134)
+
 
 As you probably guessed, I'm Russian and I like programming. I started programming very early in life like when I was 9 I did scratch and learned it in about a day while my friends were still struggling.
 I learned Lua when I was 10 mainly because I got a PC and started making games in Roblox.
