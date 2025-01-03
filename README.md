@@ -7,11 +7,9 @@
 
 ### 🛠️ About Me :
 
-🇲🇹 and Russian
+I'm Russian (no shit, I play cs)
 
-💻 I love cybersecurity
-
-:cat: CS:GO and silly kitties 🐱
+sigma boy
 
 ---
 
